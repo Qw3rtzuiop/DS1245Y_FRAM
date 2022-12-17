@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "FM28V100 ")(type "KiCad")(uri "${KIPRJMOD}/FM28V100 .kicad_sym")(options "")(descr ""))
+)
