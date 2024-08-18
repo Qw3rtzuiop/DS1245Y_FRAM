@@ -1,5 +1,10 @@
 # DS1245Y drop in replacement with FM28V100 FRAM
 
+
+Take a look here: @braddr discovered an easier solution:
+https://github.com/Qw3rtzuiop/DS1245Y_FRAM/issues/1#issuecomment-2248997533
+
+
 Designed for Keithley 2001 (MEM2 option). More infos here:
 https://xdevs.com/article/kei200x-mem/
 
